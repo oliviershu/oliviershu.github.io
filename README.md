@@ -1,7 +1,10 @@
-# Olivier Shu, MD, RN, MSc (Data Analytics),  MBA  
-Clinician–Data Scientist | DoD Analytics | Surgical Research Collaborator  
+<img src="assets/headshot.jpg" alt="Olivier Shu" width="150" style="float:right; margin-left:20px; border-radius:10px">
 
-<img src="assets/headshot.jpg" alt="Olivier Shu" width="150" align="right">
+# Olivier Shu, MD, RN, MSc (Data Analytics), MBA  
+**Clinician–Data Scientist | DoD Analytics | Surgical Outcomes & AI in Medicine**
+
+📧 [Email](mailto:olivier@careglide.ai) • [LinkedIn](https://www.linkedin.com/in/olivier-shu/) • [GitHub](https://github.com/oliviershu)
+
 
 ---
 
