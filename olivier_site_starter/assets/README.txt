@@ -1,0 +1,1 @@
+Place your headshot image here as 'headshot.jpg'.
