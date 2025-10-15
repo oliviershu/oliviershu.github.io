@@ -1,4 +1,4 @@
-<img src="assets/headshot.jpg" alt="Olivier Shu" width="150" style="float:right; margin-left:20px; border-radius:10px">
+<img src="assets/pic.jpg" alt="Olivier Shu" width="150" style="float:right; margin-left:20px; border-radius:10px">
 
 # Olivier Shu, MD, RN, MSc (Data Analytics), MBA  
 **Clinician–Data Scientist | DoD Analytics | Surgical Outcomes & AI in Medicine**
