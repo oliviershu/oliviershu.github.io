@@ -5,7 +5,6 @@
 
 📧 [Email](mailto:olivier@careglide.ai) • [LinkedIn](https://www.linkedin.com/in/olivier-shu/) • [GitHub](https://github.com/oliviershu)
 
-
 ---
 
 ## About Me  
