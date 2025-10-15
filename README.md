@@ -6,9 +6,9 @@ Clinician–Data Scientist | DoD Analytics | Surgical Research Collaborator
 ---
 
 ## About Me  
-I’m a clinician–data scientist with a background spanning medicine, nursing, and defense analytics.  
-Previously, I supported the **U.S. Department of Defense**, building predictive models and decision-support tools for biomedical and operational missions.  
-My focus now is applying reproducible data science to **surgical and neurosurgical outcomes research**, partnering with faculty at the **University of New Mexico**.
+I’m a clinician–data scientist with a multidisciplinary background spanning medicine, nursing, and defense analytics.
+I co-authored the U.S. Indo-Pacific Command AI Implementation Strategy, contributing to the development of predictive models and decision-support tools for biomedical and operational missions.
+I’m currently focused on applying reproducible data science to surgical and neurosurgical outcomes research and am exploring collaboration opportunities with faculty at the University of New Mexico.
 
 ---
 
