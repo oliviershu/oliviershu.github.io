@@ -17,7 +17,7 @@ I’m currently focused on applying reproducible data science to surgical and ne
 ## Portfolio Projects  
 | Project | Dataset | Description | Link |
 |----------|----------|--------------|------|
-| **Surgical Site Infection Prediction** | UCI SSI | ML model predicting surgical site infection risk. | 🔗 [Repo](#) |
+| **Surgical Site Infection Prediction** | UCI SSI | ML model predicting surgical site infection risk. | 🔗 [Repo](https://github.com/oliviershu/surgical-data-analytics-portfolio/tree/main/01_surgical_site_infectio) |
 | **Surgical Outcomes Model (MIMIC-IV)** | MIMIC-IV | Predicting postoperative complications & LOS. | 🔗 [Repo](#) |
 | **ICU Deterioration Monitoring (eICU)** | eICU CRD | Time-series model detecting ICU deterioration early. | 🔗 [Repo](#) |
 
